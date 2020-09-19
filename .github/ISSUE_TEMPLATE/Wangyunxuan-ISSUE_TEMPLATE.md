@@ -1,6 +1,6 @@
 ---
-name: issue template 1
-about: my description of issue template 1
+name: issue template wangyx
+about: my description of issue template wangyx
 ---
 ## ISSUE TEMPLATE
 My name is wangyx.
